@@ -1,0 +1,21 @@
+LARGE LANGUAGE MODEL
+    OLLAM3
+    MISTRAL
+    GOOGLE PALM
+    GEMINI AI
+
+
+Vector Databases
+Efficient storage and retrieval of text data 
+Creating and Managing vector Databases
+
+RETRIEVAL AUGMENTED GENERATION (RAG)
+retrieval augmented generation (rag) is a cutting-edge NLP method that combines search and text generation 
+for better results. First, it uses a search tool to find relevant information from a large document database 
+based on your query. Then, a generation model like a Transformer based neural network , uses this information
+to create a coherent and contextually appropriate response. This approach makes RAG great for tasks like 
+question answering personalized content creation, complex problem-solving, as it ensures both accuracy and 
+a deep understanding of the language 
+
+
+
